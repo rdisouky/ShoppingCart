@@ -5,7 +5,7 @@
 
 1-Clone this repository
 
-2-Open index.html file
+2-Open shop.jsx file
 
 3-Enjoy!
 
