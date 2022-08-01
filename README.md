@@ -1,6 +1,20 @@
 # ShoppingCart
  Online Shopping Cart that keeps track of inventory while you shop. Hence, you can only shop from what is available byclicking on the items you want to add to your cart. Enjoy this Online shopping Experience, without Buyer's remorse because you cannot pay.... Yet! :) 
  
+ How to Run:
+
+1-Clone this repository
+
+2-Open index.html file
+
+3-Enjoy!
+
+
+Roadmap of future improvements: I am hoping to add more procucts but also have the cart increase in number. For example instead of having Pants twice in the cart, to have it say Pants(2) for a cleaner experience. Assuming they are the same pants model ofcourse!
+ 
+ 
+ 
+ 
  
 <img width="353" alt="shoppingcart" src="https://user-images.githubusercontent.com/102531594/182185142-809b0c2b-5c61-4dde-b8ce-08986e6b8019.png">
 
